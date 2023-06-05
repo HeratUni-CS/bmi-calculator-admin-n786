@@ -1,8 +1,8 @@
-import 'package:bmi_starting/com/bottombutton.dart';
+import 'bottombutton.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'view/input_file.dart';
-import 'view/input_file.dart';
+import 'input_file.dart';
+import 'input_file.dart';
 
 void main() => runApp(BMICalculator());
 

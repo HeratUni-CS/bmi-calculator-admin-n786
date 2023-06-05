@@ -1,12 +1,12 @@
 import 'package:bmi_starting/bmi_brain.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import '../com/reausable.dart';
-import '../com/containercontent.dart';
-import '../constants.dart';
+import 'reausable.dart';
+import 'containercontent.dart';
+import 'constants.dart';
 import 'Resultpage.dart';
-import '../com/bottombutton.dart';
-import '../com/Roundiconbutton.dart';
+import 'bottombutton.dart';
+import 'Roundiconbutton.dart';
 
 enum gender {
   male,

@@ -1,4 +1,4 @@
-import 'package:bmi_starting/com/bottombutton.dart';
+import 'bottombutton.dart';
 import 'package:flutter/material.dart';
 import 'reausable.dart';
 import 'constants.dart';
